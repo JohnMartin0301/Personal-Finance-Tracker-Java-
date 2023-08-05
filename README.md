@@ -6,7 +6,8 @@
 
 
 
-The Personal Finance Tracker is a Java-based program that helps you manage your finances by tracking your expenses and budget allocations for different categories. With this tool, you can keep a close watch on your spending habits and make informed financial decisions.
+The Personal Finance Tracker is a Java-based program that helps you manage your finances by tracking your expenses and budget allocations for different categories. With this tool, you can keep a close watch on your spending habits and make informed financial decisions. It uses the 50/30/20 rule which
+works best for me personally. Amount for needs is equivalent to (50%), Savings(30%), and Wants(20%).
 
 
 
